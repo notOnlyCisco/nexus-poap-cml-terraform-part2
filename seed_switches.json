@@ -1,0 +1,19 @@
+{
+    
+  "DC-A-BGW101": {
+    "dhcpBootstrapIP": "10.0.22.2",
+    "hostname": "DC-A-BGW101",
+    "ipAddress": "10.0.17.2",
+    "password": "C!sco123",
+    "gateway": "10.0.22.1/29"
+  },
+  "DC-A-BGW102": {
+    "dhcpBootstrapIP": "10.0.22.10",
+    "hostname": "DC-A-BGW102",
+    "ipAddress": "10.0.17.1",
+    "password": "C!sco123",
+    "gateway": "10.0.22.9/29"
+  }
+    
+  }
+  
